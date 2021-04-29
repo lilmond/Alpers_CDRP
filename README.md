@@ -1,6 +1,6 @@
 # Alper's CDRP (Custom Discord Rich Presence)
 
-Alper's CDRP is an easy-to-use desktop application to create a custom rich presence on Discord.
+Alper's CDRP is an easy-to-use desktop application to create a custom rich presence on Discord. I originally made this application for my friend Mars.
 
 - Download the first release of Alper's CDRP from https://github.com/lilmond/Alpers_CDRP_v1.0_Source_Code/releases/tag/v1.0
 
