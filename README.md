@@ -13,7 +13,7 @@ Alper's CDRP is an easy-to-use desktop application to create a custom rich prese
 ![image](https://user-images.githubusercontent.com/54730301/116488296-e3ebf180-a846-11eb-9693-11aed41504fd.png)
 
 
-## How to create my own icon
+## How to create my own icon step-by-step
 - Step 1: Go to https://discord.com/developers/applications then click the **New Application** button at the right upper corner of the page.
 
 ![image](https://user-images.githubusercontent.com/54730301/116488932-7ccf3c80-a848-11eb-9860-0e23f7d410ce.png)
@@ -22,3 +22,16 @@ Alper's CDRP is an easy-to-use desktop application to create a custom rich prese
 
 ![image](https://user-images.githubusercontent.com/54730301/116489227-4ba33c00-a849-11eb-9d34-4360d287ad11.png)
 
+- Step 3: Upload your **App icon** then click **Save Changes**. Take note that your icon must be square size.
+
+![image](https://user-images.githubusercontent.com/54730301/116490153-8ad28c80-a84b-11eb-911d-ef607c26586a.png)
+
+![image](https://user-images.githubusercontent.com/54730301/116490140-8017f780-a84b-11eb-9aef-b1118bc4b8c1.png)
+
+- Step 4: On the left side of the page, click **Rich Presence** then **Art Assets**.
+
+![image](https://user-images.githubusercontent.com/54730301/116490293-da18bd00-a84b-11eb-8bb4-30ac41ccc7aa.png)
+
+- Step 5: At the bottom part of the page, click the **Add Image(s)** button then upload your logo file then rename it and finally, save it by hitting the **Save Changes** button.
+
+![image](https://user-images.githubusercontent.com/54730301/116490745-fbc67400-a84c-11eb-9588-ace011fca0f0.png)
