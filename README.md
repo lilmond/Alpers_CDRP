@@ -17,3 +17,8 @@ Alper's CDRP is an easy-to-use desktop application to create a custom rich prese
 - Step 1: Go to https://discord.com/developers/applications then click the **New Application** button at the right upper corner of the page.
 
 ![image](https://user-images.githubusercontent.com/54730301/116488932-7ccf3c80-a848-11eb-9860-0e23f7d410ce.png)
+
+- Step 2: Name your application then hit the **Create** button.
+
+![image](https://user-images.githubusercontent.com/54730301/116489227-4ba33c00-a849-11eb-9d34-4360d287ad11.png)
+
