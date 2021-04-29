@@ -35,3 +35,16 @@ Alper's CDRP is an easy-to-use desktop application to create a custom rich prese
 - Step 5: At the bottom part of the page, click the **Add Image(s)** button then upload your logo file then rename it and finally, save it by hitting the **Save Changes** button.
 
 ![image](https://user-images.githubusercontent.com/54730301/116490745-fbc67400-a84c-11eb-9588-ace011fca0f0.png)
+
+### Now let's test it out!
+
+- Step 6: Go back to the **General Information** page then copy your **Application ID**.
+
+![image](https://user-images.githubusercontent.com/54730301/116490940-88713200-a84d-11eb-9e53-9f2bb38f6c07.png)
+
+- Step 7: Put your **Application ID** in the **CDRP** program then click **Set** then check it out.
+
+![image](https://user-images.githubusercontent.com/54730301/116491051-d0905480-a84d-11eb-91d5-97a92fb5e8d4.png)
+
+![image](https://user-images.githubusercontent.com/54730301/116491142-0af9f180-a84e-11eb-839d-fafb08257220.png)
+
