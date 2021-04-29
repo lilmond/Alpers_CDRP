@@ -2,7 +2,7 @@
 
 Alper's CDRP is an easy-to-use desktop application to create a custom rich presence on Discord. I originally made this application for my friend Mars.
 
-Anti-virus softwares may flag it as a Malicious software but it's not!
+Anti-virus softwares may flag it as a malicious software but it's not!
 
 - Download the first release of Alper's CDRP from https://github.com/lilmond/Alpers_CDRP_v1.0_Source_Code/releases/tag/v1.0
 
