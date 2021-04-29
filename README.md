@@ -6,6 +6,9 @@ Some anti-virus programs may flag it as a Malicious software but it's not!
 
 - Download the first release of Alper's CDRP from https://github.com/lilmond/Alpers_CDRP_v1.0_Source_Code/releases/tag/v1.0
 
+## Requirements
+- Discord App
+
 ## Screenshots
 - App
 
